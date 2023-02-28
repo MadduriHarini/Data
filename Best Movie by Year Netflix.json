@@ -1,0 +1,394 @@
+[
+ {
+   "index": 0,
+   "TITLE": "White Christmas",
+   "RELEASE_YEAR": 1954,
+   "SCORE": 7.5,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 1,
+   "TITLE": "The Guns of Navarone",
+   "RELEASE_YEAR": 1961,
+   "SCORE": 7.5,
+   "MAIN_GENRE": "war",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 2,
+   "TITLE": "My Fair Lady",
+   "RELEASE_YEAR": 1964,
+   "SCORE": 7.8,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 3,
+   "TITLE": "Bonnie and Clyde",
+   "RELEASE_YEAR": 1967,
+   "SCORE": 7.7,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 4,
+   "TITLE": "Dirty Harry",
+   "RELEASE_YEAR": 1971,
+   "SCORE": 7.7,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 5,
+   "TITLE": "The Exorcist",
+   "RELEASE_YEAR": 1973,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 6,
+   "TITLE": "Monty Python and the Holy Grail",
+   "RELEASE_YEAR": 1975,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 7,
+   "TITLE": "Taxi Driver",
+   "RELEASE_YEAR": 1976,
+   "SCORE": 8.3,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 8,
+   "TITLE": "Life of Brian",
+   "RELEASE_YEAR": 1979,
+   "SCORE": 8,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 9,
+   "TITLE": "The Blue Lagoon",
+   "RELEASE_YEAR": 1980,
+   "SCORE": 5.8,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 10,
+   "TITLE": "Annie",
+   "RELEASE_YEAR": 1982,
+   "SCORE": 6.6,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 11,
+   "TITLE": "Christine",
+   "RELEASE_YEAR": 1983,
+   "SCORE": 6.7,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 12,
+   "TITLE": "Once Upon a Time in America",
+   "RELEASE_YEAR": 1984,
+   "SCORE": 8.3,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 13,
+   "TITLE": "Stand by Me",
+   "RELEASE_YEAR": 1986,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 14,
+   "TITLE": "Full Metal Jacket",
+   "RELEASE_YEAR": 1987,
+   "SCORE": 8.3,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 15,
+   "TITLE": "When Harry Met Sally...",
+   "RELEASE_YEAR": 1989,
+   "SCORE": 7.7,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 16,
+   "TITLE": "Awakenings",
+   "RELEASE_YEAR": 1990,
+   "SCORE": 7.8,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 17,
+   "TITLE": "My Girl",
+   "RELEASE_YEAR": 1991,
+   "SCORE": 6.9,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 18,
+   "TITLE": "A River Runs Through It",
+   "RELEASE_YEAR": 1992,
+   "SCORE": 7.2,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 19,
+   "TITLE": "Menace II Society",
+   "RELEASE_YEAR": 1993,
+   "SCORE": 7.5,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 20,
+   "TITLE": "Forrest Gump",
+   "RELEASE_YEAR": 1994,
+   "SCORE": 8.8,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 21,
+   "TITLE": "Desperado",
+   "RELEASE_YEAR": 1995,
+   "SCORE": 7.1,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 22,
+   "TITLE": "Happy Gilmore",
+   "RELEASE_YEAR": 1996,
+   "SCORE": 7,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 23,
+   "TITLE": "Neon Genesis Evangelion: The End of Evangelion",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 8,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 24,
+   "TITLE": "Saving Private Ryan",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 8.6,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 25,
+   "TITLE": "Girl, Interrupted",
+   "RELEASE_YEAR": 1999,
+   "SCORE": 7.3,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 26,
+   "TITLE": "The Patriot",
+   "RELEASE_YEAR": 2000,
+   "SCORE": 7.2,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 27,
+   "TITLE": "Lagaan: Once Upon a Time in India",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 28,
+   "TITLE": "Road to Perdition",
+   "RELEASE_YEAR": 2002,
+   "SCORE": 7.7,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 29,
+   "TITLE": "Big Fish",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 8,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 30,
+   "TITLE": "Swades",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 31,
+   "TITLE": "Memoirs of a Geisha",
+   "RELEASE_YEAR": 2005,
+   "SCORE": 7.3,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 32,
+   "TITLE": "Rang De Basanti",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 33,
+   "TITLE": "Like Stars on Earth",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 8.3,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 34,
+   "TITLE": "Ip Man",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 8,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "HK"
+ },
+ {
+   "index": 35,
+   "TITLE": "3 Idiots",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 8.4,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 36,
+   "TITLE": "Inception",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 8.8,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 37,
+   "TITLE": "Warrior",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 38,
+   "TITLE": "Django Unchained",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 8.4,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 39,
+   "TITLE": "Rush",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 8.1,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 40,
+   "TITLE": "Queen",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 41,
+   "TITLE": "Drishyam",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 42,
+   "TITLE": "Dangal",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 8.4,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 43,
+   "TITLE": "Bāhubali 2: The Conclusion",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 44,
+   "TITLE": "Andhadhun",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 8.2,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 45,
+   "TITLE": "Dave Chappelle: Sticks & Stones",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.4,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 46,
+   "TITLE": "David Attenborough: A Life on Our Planet",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 9,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 47,
+   "TITLE": "Bo Burnham: Inside",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 8.7,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 48,
+   "TITLE": "The Tinder Swindler",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 7.2,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "GB"
+ }
+]

@@ -1,0 +1,3872 @@
+[
+ {
+   "index": 0,
+   "TITLE": "David Attenborough: A Life on Our Planet",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 9,
+   "NUMBER_OF_VOTES": 31180,
+   "DURATION": 83,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 1,
+   "TITLE": "Inception",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 8.8,
+   "NUMBER_OF_VOTES": 2268288,
+   "DURATION": 148,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 2,
+   "TITLE": "Forrest Gump",
+   "RELEASE_YEAR": 1994,
+   "SCORE": 8.8,
+   "NUMBER_OF_VOTES": 1994599,
+   "DURATION": 142,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 3,
+   "TITLE": "Anbe Sivam",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 8.7,
+   "NUMBER_OF_VOTES": 20595,
+   "DURATION": 160,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 4,
+   "TITLE": "Bo Burnham: Inside",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 8.7,
+   "NUMBER_OF_VOTES": 44074,
+   "DURATION": 87,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 5,
+   "TITLE": "Saving Private Ryan",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 8.6,
+   "NUMBER_OF_VOTES": 1346020,
+   "DURATION": 169,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 6,
+   "TITLE": "Django Unchained",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 1472668,
+   "DURATION": 165,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 7,
+   "TITLE": "Dangal",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 180247,
+   "DURATION": 161,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 8,
+   "TITLE": "Bo Burnham: Make Happy",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 14356,
+   "DURATION": 60,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 9,
+   "TITLE": "Louis C.K.: Hilarious",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 11973,
+   "DURATION": 84,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 10,
+   "TITLE": "Dave Chappelle: Sticks & Stones",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 25687,
+   "DURATION": 65,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 11,
+   "TITLE": "3 Idiots",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 385782,
+   "DURATION": 170,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 12,
+   "TITLE": "Black Friday",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 20611,
+   "DURATION": 143,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 13,
+   "TITLE": "Super Deluxe",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.4,
+   "NUMBER_OF_VOTES": 13680,
+   "DURATION": 176,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 14,
+   "TITLE": "Winter on Fire: Ukraine's Fight for Freedom",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 17710,
+   "DURATION": 98,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "UA"
+ },
+ {
+   "index": 15,
+   "TITLE": "Once Upon a Time in America",
+   "RELEASE_YEAR": 1984,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 342335,
+   "DURATION": 229,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 16,
+   "TITLE": "Taxi Driver",
+   "RELEASE_YEAR": 1976,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 795222,
+   "DURATION": 113,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 17,
+   "TITLE": "Like Stars on Earth",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 188234,
+   "DURATION": 165,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 18,
+   "TITLE": "Bo Burnham: What.",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 11488,
+   "DURATION": 60,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 19,
+   "TITLE": "Full Metal Jacket",
+   "RELEASE_YEAR": 1987,
+   "SCORE": 8.3,
+   "NUMBER_OF_VOTES": 723306,
+   "DURATION": 116,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 20,
+   "TITLE": "Warrior",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 463276,
+   "DURATION": 140,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 21,
+   "TITLE": "Drishyam",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 79075,
+   "DURATION": 163,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 22,
+   "TITLE": "Queen",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 64805,
+   "DURATION": 146,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 23,
+   "TITLE": "Paan Singh Tomar",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 35888,
+   "DURATION": 135,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 24,
+   "TITLE": "Cowspiracy: The Sustainability Secret",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 24845,
+   "DURATION": 90,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 25,
+   "TITLE": "Virunga",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 11403,
+   "DURATION": 90,
+   "MAIN_GENRE": "war",
+   "MAIN_PRODUCTION": "CD"
+ },
+ {
+   "index": 26,
+   "TITLE": "PK",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 178012,
+   "DURATION": 153,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 27,
+   "TITLE": "Bāhubali 2: The Conclusion",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 91560,
+   "DURATION": 168,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 28,
+   "TITLE": "Monty Python and the Holy Grail",
+   "RELEASE_YEAR": 1975,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 530877,
+   "DURATION": 91,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 29,
+   "TITLE": "Article 15",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 32336,
+   "DURATION": 130,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 30,
+   "TITLE": "Miracle in Cell No. 7",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 46939,
+   "DURATION": 132,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 31,
+   "TITLE": "13th",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 34914,
+   "DURATION": 100,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 32,
+   "TITLE": "Andhadhun",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 8.2,
+   "NUMBER_OF_VOTES": 88359,
+   "DURATION": 139,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 33,
+   "TITLE": "Bill Burr: Paper Tiger",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 10649,
+   "DURATION": 67,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 34,
+   "TITLE": "Udaan",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 44556,
+   "DURATION": 138,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 35,
+   "TITLE": "How to Train Your Dragon",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 719717,
+   "DURATION": 98,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 36,
+   "TITLE": "Klaus",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 141480,
+   "DURATION": 97,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 37,
+   "TITLE": "Swades",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 89085,
+   "DURATION": 189,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 38,
+   "TITLE": "Minnal Murali",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 24681,
+   "DURATION": 158,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 39,
+   "TITLE": "Rang De Basanti",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 118092,
+   "DURATION": 157,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 40,
+   "TITLE": "Seaspiracy",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 29604,
+   "DURATION": 80,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 41,
+   "TITLE": "Rush",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 465254,
+   "DURATION": 123,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 42,
+   "TITLE": "Hannah Gadsby: Nanette",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 12035,
+   "DURATION": 69,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "AU"
+ },
+ {
+   "index": 43,
+   "TITLE": "Barfi!",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 80643,
+   "DURATION": 151,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 44,
+   "TITLE": "Haider",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 54001,
+   "DURATION": 150,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 45,
+   "TITLE": "Zindagi Na Milegi Dobara",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 75801,
+   "DURATION": 166,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 46,
+   "TITLE": "A Silent Voice: The Movie",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 75132,
+   "DURATION": 130,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 47,
+   "TITLE": "OMG: Oh My God!",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 57449,
+   "DURATION": 125,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 48,
+   "TITLE": "Talvar",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 34659,
+   "DURATION": 132,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 49,
+   "TITLE": "Into the Wild",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 611379,
+   "DURATION": 140,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 50,
+   "TITLE": "Lagaan: Once Upon a Time in India",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 111053,
+   "DURATION": 224,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 51,
+   "TITLE": "My Octopus Teacher",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 51232,
+   "DURATION": 84,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "ZA"
+ },
+ {
+   "index": 52,
+   "TITLE": "Dil Chahta Hai",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 71167,
+   "DURATION": 183,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 53,
+   "TITLE": "Mersal",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 32573,
+   "DURATION": 169,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 54,
+   "TITLE": "The Legend of Bhagat Singh",
+   "RELEASE_YEAR": 2002,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 16225,
+   "DURATION": 155,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 55,
+   "TITLE": "Stand by Me",
+   "RELEASE_YEAR": 1986,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 392790,
+   "DURATION": 89,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 56,
+   "TITLE": "The Exorcist",
+   "RELEASE_YEAR": 1973,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 391942,
+   "DURATION": 133,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 57,
+   "TITLE": "Bombay",
+   "RELEASE_YEAR": 1995,
+   "SCORE": 8.1,
+   "NUMBER_OF_VOTES": 12512,
+   "DURATION": 141,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 58,
+   "TITLE": "Dasvi",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 13140,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 59,
+   "TITLE": "G.O.R.A.",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 61797,
+   "DURATION": 127,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 60,
+   "TITLE": "Blood Diamond",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 536858,
+   "DURATION": 143,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 61,
+   "TITLE": "Vizontele",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 36291,
+   "DURATION": 110,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 62,
+   "TITLE": "Ip Man",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 221095,
+   "DURATION": 108,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "HK"
+ },
+ {
+   "index": 63,
+   "TITLE": "Her",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 586679,
+   "DURATION": 126,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 64,
+   "TITLE": "The Bourne Ultimatum",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 627009,
+   "DURATION": 115,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 65,
+   "TITLE": "Casino Royale",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 644336,
+   "DURATION": 139,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 66,
+   "TITLE": "Special 26",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 55489,
+   "DURATION": 144,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 67,
+   "TITLE": "Neon Genesis Evangelion: The End of Evangelion",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 51938,
+   "DURATION": 87,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 68,
+   "TITLE": "Bāhubali: The Beginning",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 117333,
+   "DURATION": 159,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 69,
+   "TITLE": "Ankhon Dekhi",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 11330,
+   "DURATION": 104,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 70,
+   "TITLE": "Big Fish",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 435503,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 71,
+   "TITLE": "Silenced",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 15889,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "KR"
+ },
+ {
+   "index": 72,
+   "TITLE": "Life of Brian",
+   "RELEASE_YEAR": 1979,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 392419,
+   "DURATION": 94,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 73,
+   "TITLE": "The Invisible Guest",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 170351,
+   "DURATION": 107,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 74,
+   "TITLE": "Dave Chappelle: The Closer",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 24903,
+   "DURATION": 72,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 75,
+   "TITLE": "Blade Runner 2049",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 539864,
+   "DURATION": 164,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "CA"
+ },
+ {
+   "index": 76,
+   "TITLE": "The Imitation Game",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 8,
+   "NUMBER_OF_VOTES": 748654,
+   "DURATION": 113,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 77,
+   "TITLE": "Jab We Met",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 51945,
+   "DURATION": 138,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 78,
+   "TITLE": "Free to Play",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 13308,
+   "DURATION": 75,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "UA"
+ },
+ {
+   "index": 79,
+   "TITLE": "Monty Python Live at the Hollywood Bowl",
+   "RELEASE_YEAR": 1982,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 15186,
+   "DURATION": 77,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 80,
+   "TITLE": "Dev.D",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 30389,
+   "DURATION": 144,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 81,
+   "TITLE": "Marriage Story",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 290643,
+   "DURATION": 136,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 82,
+   "TITLE": "Icarus",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 48672,
+   "DURATION": 121,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 83,
+   "TITLE": "I Am Not Your Negro",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 21632,
+   "DURATION": 93,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "BE"
+ },
+ {
+   "index": 84,
+   "TITLE": "Ricky Gervais: Humanity",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 18523,
+   "DURATION": 79,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 85,
+   "TITLE": "Secret Superstar",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 24046,
+   "DURATION": 150,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 86,
+   "TITLE": "Kal Ho Naa Ho",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 68028,
+   "DURATION": 186,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 87,
+   "TITLE": "Pad Man",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 25269,
+   "DURATION": 140,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 88,
+   "TITLE": "Shyam Singha Roy",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.9,
+   "NUMBER_OF_VOTES": 10903,
+   "DURATION": 157,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 89,
+   "TITLE": "How to Train Your Dragon 2",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 327565,
+   "DURATION": 102,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 90,
+   "TITLE": "The Irishman",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 371209,
+   "DURATION": 209,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 91,
+   "TITLE": "Gangaajal",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 17029,
+   "DURATION": 157,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 92,
+   "TITLE": "The Girl with the Dragon Tattoo",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 454917,
+   "DURATION": 158,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "NO"
+ },
+ {
+   "index": 93,
+   "TITLE": "Lakshya",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 23076,
+   "DURATION": 186,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 94,
+   "TITLE": "The Social Network",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 681286,
+   "DURATION": 121,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 95,
+   "TITLE": "Dunkirk",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 619645,
+   "DURATION": 107,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 96,
+   "TITLE": "Kai Po Che!",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 36512,
+   "DURATION": 126,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 97,
+   "TITLE": "The Gentlemen",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 314049,
+   "DURATION": 113,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 98,
+   "TITLE": "Marco Polo: One Hundred Eyes",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 10742,
+   "DURATION": 28,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 99,
+   "TITLE": "The Hateful Eight",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 570138,
+   "DURATION": 188,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 100,
+   "TITLE": "Hunt for the Wilderpeople",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 125720,
+   "DURATION": 101,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "NZ"
+ },
+ {
+   "index": 101,
+   "TITLE": "The Last Samurai",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 429097,
+   "DURATION": 154,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "NZ"
+ },
+ {
+   "index": 102,
+   "TITLE": "Gattaca",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 298168,
+   "DURATION": 106,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 103,
+   "TITLE": "The Butterfly's Dream",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 21882,
+   "DURATION": 138,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 104,
+   "TITLE": "14 Peaks: Nothing Is Impossible",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 22858,
+   "DURATION": 101,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 105,
+   "TITLE": "Nightcrawler",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 523686,
+   "DURATION": 118,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 106,
+   "TITLE": "Udta Punjab",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 29819,
+   "DURATION": 148,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 107,
+   "TITLE": "My Fair Lady",
+   "RELEASE_YEAR": 1964,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 94121,
+   "DURATION": 170,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 108,
+   "TITLE": "System Crasher",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 12699,
+   "DURATION": 118,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 109,
+   "TITLE": "The Game Changers",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 19708,
+   "DURATION": 88,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 110,
+   "TITLE": "Awakenings",
+   "RELEASE_YEAR": 1990,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 137549,
+   "DURATION": 120,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 111,
+   "TITLE": "Badla",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.8,
+   "NUMBER_OF_VOTES": 27130,
+   "DURATION": 120,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 112,
+   "TITLE": "Madras Cafe",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 24319,
+   "DURATION": 130,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 113,
+   "TITLE": "Beasts of No Nation",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 80129,
+   "DURATION": 137,
+   "MAIN_GENRE": "war",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 114,
+   "TITLE": "Bonnie and Clyde",
+   "RELEASE_YEAR": 1967,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 111189,
+   "DURATION": 110,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 115,
+   "TITLE": "Roma",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 153508,
+   "DURATION": 135,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "MX"
+ },
+ {
+   "index": 116,
+   "TITLE": "Kapoor & Sons",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 25792,
+   "DURATION": 132,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 117,
+   "TITLE": "Mucize",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 12395,
+   "DURATION": 136,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 118,
+   "TITLE": "Wind River",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 240408,
+   "DURATION": 106,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 119,
+   "TITLE": "Oye Lucky! Lucky Oye!",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 17411,
+   "DURATION": 126,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 120,
+   "TITLE": "Dirty Harry",
+   "RELEASE_YEAR": 1971,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 153463,
+   "DURATION": 102,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 121,
+   "TITLE": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 25593,
+   "DURATION": 94,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 122,
+   "TITLE": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 10257,
+   "DURATION": 80,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 123,
+   "TITLE": "Silver Linings Playbook",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 697481,
+   "DURATION": 122,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 124,
+   "TITLE": "Sanju",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 52227,
+   "DURATION": 161,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 125,
+   "TITLE": "Argo",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 600392,
+   "DURATION": 120,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 126,
+   "TITLE": "Guru",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 23541,
+   "DURATION": 166,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 127,
+   "TITLE": "Road to Perdition",
+   "RELEASE_YEAR": 2002,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 263212,
+   "DURATION": 117,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 128,
+   "TITLE": "The Trial of the Chicago 7",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 170728,
+   "DURATION": 130,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 129,
+   "TITLE": "When Harry Met Sally...",
+   "RELEASE_YEAR": 1989,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 212913,
+   "DURATION": 96,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 130,
+   "TITLE": "Rock On!!",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 21963,
+   "DURATION": 144,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 131,
+   "TITLE": "In the Family",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 23297,
+   "DURATION": 124,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 132,
+   "TITLE": "Pyaar Ka Punchnama",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 21204,
+   "DURATION": 149,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 133,
+   "TITLE": "Midnight in Paris",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 413541,
+   "DURATION": 94,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 134,
+   "TITLE": "Donnie Brasco",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 7.7,
+   "NUMBER_OF_VOTES": 300073,
+   "DURATION": 127,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 135,
+   "TITLE": "The Blind Side",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 323939,
+   "DURATION": 129,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 136,
+   "TITLE": "Sherlock Holmes",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 620154,
+   "DURATION": 129,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 137,
+   "TITLE": "Stardust",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 269043,
+   "DURATION": 122,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 138,
+   "TITLE": "Kuch Kuch Hota Hai",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 51640,
+   "DURATION": 185,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 139,
+   "TITLE": "Parmanu: The Story of Pokhran",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 23771,
+   "DURATION": 129,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 140,
+   "TITLE": "Doctor",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 14590,
+   "DURATION": 150,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 141,
+   "TITLE": "What Happened, Miss Simone?",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 13703,
+   "DURATION": 101,
+   "MAIN_GENRE": "musical",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 142,
+   "TITLE": "Eddie Murphy Raw",
+   "RELEASE_YEAR": 1987,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 19646,
+   "DURATION": 93,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 143,
+   "TITLE": "Delhi Belly",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 29578,
+   "DURATION": 102,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 144,
+   "TITLE": "The Boy Who Harnessed the Wind",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 36805,
+   "DURATION": 113,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "MW"
+ },
+ {
+   "index": 145,
+   "TITLE": "Kabhi Haan Kabhi Naa",
+   "RELEASE_YEAR": 1994,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 18224,
+   "DURATION": 158,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 146,
+   "TITLE": "The Two Popes",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 120871,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 147,
+   "TITLE": "The Social Dilemma",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 79674,
+   "DURATION": 94,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 148,
+   "TITLE": "Bad Genius",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 20430,
+   "DURATION": 130,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "TH"
+ },
+ {
+   "index": 149,
+   "TITLE": "The Mitchells vs. the Machines",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 100787,
+   "DURATION": 113,
+   "MAIN_GENRE": "animation",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 150,
+   "TITLE": "Gifted Hands: The Ben Carson Story",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 10210,
+   "DURATION": 86,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 151,
+   "TITLE": "Tell Me Who I Am",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 14215,
+   "DURATION": 85,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 152,
+   "TITLE": "RBG",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 14037,
+   "DURATION": 98,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 153,
+   "TITLE": "Highway",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 28370,
+   "DURATION": 133,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 154,
+   "TITLE": "Athlete A",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 10544,
+   "DURATION": 104,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 155,
+   "TITLE": "Lupin the Third: The Castle of Cagliostro",
+   "RELEASE_YEAR": 1979,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 30277,
+   "DURATION": 100,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 156,
+   "TITLE": "Love Actually",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 474176,
+   "DURATION": 139,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 157,
+   "TITLE": "Hell or High Water",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 224900,
+   "DURATION": 102,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 158,
+   "TITLE": "Wake Up Sid",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 30818,
+   "DURATION": 138,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 159,
+   "TITLE": "Ludo",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 37528,
+   "DURATION": 150,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 160,
+   "TITLE": "Stree",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 32814,
+   "DURATION": 128,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 161,
+   "TITLE": "Aamir",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 11241,
+   "DURATION": 99,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 162,
+   "TITLE": "I Am Sam",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 149082,
+   "DURATION": 132,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 163,
+   "TITLE": "True Grit",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.6,
+   "NUMBER_OF_VOTES": 333378,
+   "DURATION": 110,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 164,
+   "TITLE": "The Distinguished Citizen",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 11495,
+   "DURATION": 118,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "AR"
+ },
+ {
+   "index": 165,
+   "TITLE": "Jodhaa Akbar",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 32188,
+   "DURATION": 213,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 166,
+   "TITLE": "The Conjuring",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 491048,
+   "DURATION": 107,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 167,
+   "TITLE": "Dhamaka",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 39620,
+   "DURATION": 104,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 168,
+   "TITLE": "Bareilly Ki Barfi",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 23011,
+   "DURATION": 123,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 169,
+   "TITLE": "Les Misérables",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 325132,
+   "DURATION": 157,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 170,
+   "TITLE": "Berserk: The Golden Age Arc I - The Egg of the King",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 12278,
+   "DURATION": 76,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 171,
+   "TITLE": "Dil Se..",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 28409,
+   "DURATION": 163,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 172,
+   "TITLE": "Omar",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 14230,
+   "DURATION": 96,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "PS"
+ },
+ {
+   "index": 173,
+   "TITLE": "I Lost My Body",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 31531,
+   "DURATION": 81,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 174,
+   "TITLE": "tick, tick... BOOM!",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 96418,
+   "DURATION": 121,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 175,
+   "TITLE": "Coming Soon",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 33714,
+   "DURATION": 134,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "TR"
+ },
+ {
+   "index": 176,
+   "TITLE": "Nocturnal Animals",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 264884,
+   "DURATION": 115,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 177,
+   "TITLE": "A Monster Calls",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 86614,
+   "DURATION": 108,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 178,
+   "TITLE": "On Body and Soul",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 27003,
+   "DURATION": 116,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "HU"
+ },
+ {
+   "index": 179,
+   "TITLE": "Ala Vaikunthapurramuloo",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 14839,
+   "DURATION": 165,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 180,
+   "TITLE": "The Devil's Advocate",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 361422,
+   "DURATION": 144,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 181,
+   "TITLE": "Sivaji: The Boss",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 19556,
+   "DURATION": 189,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 182,
+   "TITLE": "Happy as Lazzaro",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 17716,
+   "DURATION": 125,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "IT"
+ },
+ {
+   "index": 183,
+   "TITLE": "The Guns of Navarone",
+   "RELEASE_YEAR": 1961,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 50150,
+   "DURATION": 158,
+   "MAIN_GENRE": "war",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 184,
+   "TITLE": "Who Am I",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 55044,
+   "DURATION": 105,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 185,
+   "TITLE": "White Christmas",
+   "RELEASE_YEAR": 1954,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 42373,
+   "DURATION": 115,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 186,
+   "TITLE": "Ip Man 2",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 103673,
+   "DURATION": 108,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "CN"
+ },
+ {
+   "index": 187,
+   "TITLE": "42",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 93314,
+   "DURATION": 128,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 188,
+   "TITLE": "Menace II Society",
+   "RELEASE_YEAR": 1993,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 57399,
+   "DURATION": 97,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 189,
+   "TITLE": "Hum Aapke Hain Koun..!",
+   "RELEASE_YEAR": 1994,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 20986,
+   "DURATION": 206,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 190,
+   "TITLE": "Blow",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 7.5,
+   "NUMBER_OF_VOTES": 255099,
+   "DURATION": 124,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 191,
+   "TITLE": "Begin Again",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 154049,
+   "DURATION": 104,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 192,
+   "TITLE": "Uncut Gems",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 261956,
+   "DURATION": 130,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 193,
+   "TITLE": "Sherlock Holmes: A Game of Shadows",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 446531,
+   "DURATION": 129,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 194,
+   "TITLE": "Rurouni Kenshin Part I: Origins",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 25793,
+   "DURATION": 134,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 195,
+   "TITLE": "Forgotten",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 29804,
+   "DURATION": 109,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "KR"
+ },
+ {
+   "index": 196,
+   "TITLE": "Tamasha",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 26790,
+   "DURATION": 139,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 197,
+   "TITLE": "Mudbound",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 47676,
+   "DURATION": 120,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 198,
+   "TITLE": "Lady Bird",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 277165,
+   "DURATION": 94,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 199,
+   "TITLE": "Molly's Game",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 165817,
+   "DURATION": 140,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "CA"
+ },
+ {
+   "index": 200,
+   "TITLE": "Raman Raghav 2.0",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 14380,
+   "DURATION": 134,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 201,
+   "TITLE": "Once Upon a Time in Mumbaai",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 17494,
+   "DURATION": 132,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 202,
+   "TITLE": "Jaane Tu... Ya Jaane Na",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 26738,
+   "DURATION": 155,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 203,
+   "TITLE": "Peepli Live",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 12265,
+   "DURATION": 104,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 204,
+   "TITLE": "Even the Rain",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 13446,
+   "DURATION": 104,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 205,
+   "TITLE": "Darkest Hour",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 193208,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 206,
+   "TITLE": "The Bucket List",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 242733,
+   "DURATION": 97,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 207,
+   "TITLE": "American Factory",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 21415,
+   "DURATION": 110,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 208,
+   "TITLE": "Miss Americana",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 19151,
+   "DURATION": 85,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 209,
+   "TITLE": "The Hand of God",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 30235,
+   "DURATION": 130,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IT"
+ },
+ {
+   "index": 210,
+   "TITLE": "A Nightmare on Elm Street",
+   "RELEASE_YEAR": 1984,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 230543,
+   "DURATION": 91,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 211,
+   "TITLE": "83",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 23781,
+   "DURATION": 163,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 212,
+   "TITLE": "Meenakshi Sundareshwar",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 17141,
+   "DURATION": 141,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 213,
+   "TITLE": "Kurup",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 11582,
+   "DURATION": 155,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 214,
+   "TITLE": "Crazy, Stupid, Love.",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 507878,
+   "DURATION": 118,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 215,
+   "TITLE": "Schumacher",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 21558,
+   "DURATION": 112,
+   "MAIN_GENRE": "sports",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 216,
+   "TITLE": "Guzaarish",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 18466,
+   "DURATION": 126,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 217,
+   "TITLE": "What the Health",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 28911,
+   "DURATION": 97,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 218,
+   "TITLE": "Mirage",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 52657,
+   "DURATION": 129,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 219,
+   "TITLE": "Bully",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 10266,
+   "DURATION": 92,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 220,
+   "TITLE": "Phantom Thread",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 128600,
+   "DURATION": 130,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 221,
+   "TITLE": "Looper",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 566791,
+   "DURATION": 119,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 222,
+   "TITLE": "Felon",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 78039,
+   "DURATION": 103,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 223,
+   "TITLE": "Life in a Metro",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 11934,
+   "DURATION": 124,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 224,
+   "TITLE": "Kabhi Khushi Kabhie Gham",
+   "RELEASE_YEAR": 2001,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 48818,
+   "DURATION": 210,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 225,
+   "TITLE": "Kaminey",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.4,
+   "NUMBER_OF_VOTES": 17136,
+   "DURATION": 135,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 226,
+   "TITLE": "Girl, Interrupted",
+   "RELEASE_YEAR": 1999,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 180532,
+   "DURATION": 127,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 227,
+   "TITLE": "Talaash",
+   "RELEASE_YEAR": 2012,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 41752,
+   "DURATION": 149,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 228,
+   "TITLE": "Starship Troopers",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 288960,
+   "DURATION": 129,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 229,
+   "TITLE": "The Guernsey Literary & Potato Peel Pie Society",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 44917,
+   "DURATION": 124,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 230,
+   "TITLE": "Okja",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 116305,
+   "DURATION": 122,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "KR"
+ },
+ {
+   "index": 231,
+   "TITLE": "Ishqiya",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 10415,
+   "DURATION": 115,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 232,
+   "TITLE": "The Edge of Seventeen",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 120488,
+   "DURATION": 104,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 233,
+   "TITLE": "Pyaar Ka Punchnama 2",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 14968,
+   "DURATION": 159,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 234,
+   "TITLE": "The Nightingale",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 28196,
+   "DURATION": 136,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "AU"
+ },
+ {
+   "index": 235,
+   "TITLE": "Corpse Bride",
+   "RELEASE_YEAR": 2005,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 265023,
+   "DURATION": 77,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 236,
+   "TITLE": "Memoirs of a Geisha",
+   "RELEASE_YEAR": 2005,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 146847,
+   "DURATION": 145,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 237,
+   "TITLE": "El Camino: A Breaking Bad Movie",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 216847,
+   "DURATION": 123,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 238,
+   "TITLE": "Official Secrets",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 45200,
+   "DURATION": 112,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 239,
+   "TITLE": "Coach Carter",
+   "RELEASE_YEAR": 2005,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 143670,
+   "DURATION": 130,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 240,
+   "TITLE": "The King",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 119020,
+   "DURATION": 140,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "AU"
+ },
+ {
+   "index": 241,
+   "TITLE": "Identity",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 240433,
+   "DURATION": 90,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 242,
+   "TITLE": "The Best of Enemies",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 16441,
+   "DURATION": 133,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 243,
+   "TITLE": "The Professionals",
+   "RELEASE_YEAR": 1966,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 16168,
+   "DURATION": 117,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 244,
+   "TITLE": "Raat Akeli Hai",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 17570,
+   "DURATION": 149,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 245,
+   "TITLE": "Little Women",
+   "RELEASE_YEAR": 1994,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 57621,
+   "DURATION": 115,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 246,
+   "TITLE": "Badhaai Do",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 15032,
+   "DURATION": 147,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 247,
+   "TITLE": "The Conjuring 2",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 260693,
+   "DURATION": 134,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 248,
+   "TITLE": "The Fundamentals of Caring",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 70542,
+   "DURATION": 97,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 249,
+   "TITLE": "The Ballad of Buster Scruggs",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 141528,
+   "DURATION": 132,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 250,
+   "TITLE": "Shot Caller",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 83961,
+   "DURATION": 120,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 251,
+   "TITLE": "The Disaster Artist",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 149604,
+   "DURATION": 104,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 252,
+   "TITLE": "Blue Jay",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 17033,
+   "DURATION": 81,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 253,
+   "TITLE": "Te3n",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 12816,
+   "DURATION": 136,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 254,
+   "TITLE": "Monster",
+   "RELEASE_YEAR": 2003,
+   "SCORE": 7.3,
+   "NUMBER_OF_VOTES": 149218,
+   "DURATION": 110,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 255,
+   "TITLE": "No One Killed Jessica",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 11665,
+   "DURATION": 136,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 256,
+   "TITLE": "Toilet: A Love Story",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 20675,
+   "DURATION": 155,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 257,
+   "TITLE": "Wish Dragon",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 24712,
+   "DURATION": 99,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "CN"
+ },
+ {
+   "index": 258,
+   "TITLE": "Mom",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 10320,
+   "DURATION": 147,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 259,
+   "TITLE": "The Professor and the Madman",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 44418,
+   "DURATION": 124,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 260,
+   "TITLE": "Kabir Singh",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 30949,
+   "DURATION": 172,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 261,
+   "TITLE": "Dolemite Is My Name",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 59836,
+   "DURATION": 118,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 262,
+   "TITLE": "In the Line of Fire",
+   "RELEASE_YEAR": 1993,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 101939,
+   "DURATION": 128,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 263,
+   "TITLE": "The Witcher: Nightmare of the Wolf",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 41508,
+   "DURATION": 83,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "PL"
+ },
+ {
+   "index": 264,
+   "TITLE": "Ittefaq",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 12095,
+   "DURATION": 107,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 265,
+   "TITLE": "The Tinder Swindler",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 57606,
+   "DURATION": 114,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 266,
+   "TITLE": "First They Killed My Father",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 17871,
+   "DURATION": 136,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "KH"
+ },
+ {
+   "index": 267,
+   "TITLE": "Don't Look Up",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 498447,
+   "DURATION": 138,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 268,
+   "TITLE": "Wazir",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 18681,
+   "DURATION": 103,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 269,
+   "TITLE": "Gabbar Is Back",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 24676,
+   "DURATION": 130,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 270,
+   "TITLE": "Fyre",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 44715,
+   "DURATION": 98,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 271,
+   "TITLE": "Steve Jobs",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 166288,
+   "DURATION": 122,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 272,
+   "TITLE": "Shooter",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 329417,
+   "DURATION": 124,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 273,
+   "TITLE": "The Butler",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 114013,
+   "DURATION": 132,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 274,
+   "TITLE": "The Siege of Jadotville",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 38308,
+   "DURATION": 108,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IE"
+ },
+ {
+   "index": 275,
+   "TITLE": "Closer",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 215678,
+   "DURATION": 94,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 276,
+   "TITLE": "Private Life",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 19023,
+   "DURATION": 123,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 277,
+   "TITLE": "American Murder: The Family Next Door",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 26355,
+   "DURATION": 83,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 278,
+   "TITLE": "St. Vincent",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 102103,
+   "DURATION": 102,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 279,
+   "TITLE": "A River Runs Through It",
+   "RELEASE_YEAR": 1992,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 59086,
+   "DURATION": 123,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 280,
+   "TITLE": "The Patriot",
+   "RELEASE_YEAR": 2000,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 270231,
+   "DURATION": 165,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 281,
+   "TITLE": "Five Feet Apart",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 61878,
+   "DURATION": 116,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 282,
+   "TITLE": "Michael Clayton",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 163878,
+   "DURATION": 120,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 283,
+   "TITLE": "The Edge of Democracy",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 14605,
+   "DURATION": 121,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "BR"
+ },
+ {
+   "index": 284,
+   "TITLE": "Paddington",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.2,
+   "NUMBER_OF_VOTES": 111092,
+   "DURATION": 96,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 285,
+   "TITLE": "Wedding Association",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 22186,
+   "DURATION": 106,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "XX"
+ },
+ {
+   "index": 286,
+   "TITLE": "Let Me In",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 120208,
+   "DURATION": 116,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 287,
+   "TITLE": "Raajneeti",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 17555,
+   "DURATION": 167,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 288,
+   "TITLE": "Body of Lies",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 224896,
+   "DURATION": 128,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 289,
+   "TITLE": "The Forgotten Battle",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 26368,
+   "DURATION": 124,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "LT"
+ },
+ {
+   "index": 290,
+   "TITLE": "Knock Down the House",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 12418,
+   "DURATION": 86,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 291,
+   "TITLE": "The Call",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 29450,
+   "DURATION": 112,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "KR"
+ },
+ {
+   "index": 292,
+   "TITLE": "Forgetting Sarah Marshall",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 280121,
+   "DURATION": 111,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 293,
+   "TITLE": "The Railway Man",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 39743,
+   "DURATION": 116,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 294,
+   "TITLE": "The Great Hack",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 22838,
+   "DURATION": 114,
+   "MAIN_GENRE": "documentary",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 295,
+   "TITLE": "Paddleton",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 13419,
+   "DURATION": 89,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 296,
+   "TITLE": "Desperado",
+   "RELEASE_YEAR": 1995,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 183638,
+   "DURATION": 104,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 297,
+   "TITLE": "Gantz:O",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 14501,
+   "DURATION": 95,
+   "MAIN_GENRE": "animation",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 298,
+   "TITLE": "The Ring",
+   "RELEASE_YEAR": 2002,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 341888,
+   "DURATION": 111,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 299,
+   "TITLE": "Margin Call",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 125883,
+   "DURATION": 107,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 300,
+   "TITLE": "Copenhagen",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 13135,
+   "DURATION": 98,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 301,
+   "TITLE": "Black Mirror: Bandersnatch",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 123377,
+   "DURATION": 90,
+   "MAIN_GENRE": "scifi",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 302,
+   "TITLE": "Metallica: Through the Never",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 17433,
+   "DURATION": 93,
+   "MAIN_GENRE": "musical",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 303,
+   "TITLE": "Seven Years in Tibet",
+   "RELEASE_YEAR": 1997,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 141308,
+   "DURATION": 136,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 304,
+   "TITLE": "Girl",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 14046,
+   "DURATION": 105,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "NL"
+ },
+ {
+   "index": 305,
+   "TITLE": "Kung Fu Panda 3",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 152791,
+   "DURATION": 95,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 306,
+   "TITLE": "To All the Boys I've Loved Before",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 101175,
+   "DURATION": 100,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 307,
+   "TITLE": "Arthur Christmas",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 58296,
+   "DURATION": 97,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 308,
+   "TITLE": "Trailer Park Boys: The Movie",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 12831,
+   "DURATION": 95,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "CA"
+ },
+ {
+   "index": 309,
+   "TITLE": "Karthik Calling Karthik",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 11944,
+   "DURATION": 135,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 310,
+   "TITLE": "The White Tiger",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 58190,
+   "DURATION": 125,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 311,
+   "TITLE": "Shootout at Lokhandwala",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 10139,
+   "DURATION": 145,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 312,
+   "TITLE": "The Devil All the Time",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 122321,
+   "DURATION": 138,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 313,
+   "TITLE": "Tangerine",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 31385,
+   "DURATION": 87,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 314,
+   "TITLE": "The Danish Girl",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 180805,
+   "DURATION": 119,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 315,
+   "TITLE": "The Unforgivable",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 101975,
+   "DURATION": 112,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 316,
+   "TITLE": "Phir Hera Pheri",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 22505,
+   "DURATION": 155,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 317,
+   "TITLE": "War Dogs",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 208185,
+   "DURATION": 114,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 318,
+   "TITLE": "The Dig",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 71915,
+   "DURATION": 112,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 319,
+   "TITLE": "Blade",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 267181,
+   "DURATION": 120,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 320,
+   "TITLE": "Luck by Chance",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 10206,
+   "DURATION": 155,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 321,
+   "TITLE": "Namastey London",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 21745,
+   "DURATION": 131,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 322,
+   "TITLE": "Don",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 36836,
+   "DURATION": 178,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 323,
+   "TITLE": "Don 2",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7.1,
+   "NUMBER_OF_VOTES": 52338,
+   "DURATION": 139,
+   "MAIN_GENRE": "action",
+   "MAIN_PRODUCTION": "DE"
+ },
+ {
+   "index": 324,
+   "TITLE": "Main Hoon Na",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 35142,
+   "DURATION": 179,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 325,
+   "TITLE": "Gangubai Kathiawadi",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 44045,
+   "DURATION": 157,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 326,
+   "TITLE": "Croupier",
+   "RELEASE_YEAR": 1998,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 21382,
+   "DURATION": 94,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 327,
+   "TITLE": "Pieces of a Woman",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 47795,
+   "DURATION": 127,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "HU"
+ },
+ {
+   "index": 328,
+   "TITLE": "Raw",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 72460,
+   "DURATION": 98,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "BE"
+ },
+ {
+   "index": 329,
+   "TITLE": "Loving",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 34139,
+   "DURATION": 123,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 330,
+   "TITLE": "Harold & Kumar Go to White Castle",
+   "RELEASE_YEAR": 2004,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 193053,
+   "DURATION": 88,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 331,
+   "TITLE": "Haseen Dillruba",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 25771,
+   "DURATION": 135,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 332,
+   "TITLE": "Rose Island",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 20019,
+   "DURATION": 117,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IT"
+ },
+ {
+   "index": 333,
+   "TITLE": "Ferry",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 10748,
+   "DURATION": 106,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "NL"
+ },
+ {
+   "index": 334,
+   "TITLE": "Handsome Devil",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 13708,
+   "DURATION": 95,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IE"
+ },
+ {
+   "index": 335,
+   "TITLE": "Torbaaz",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 17828,
+   "DURATION": 132,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 336,
+   "TITLE": "Ip Man 3",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 54128,
+   "DURATION": 105,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "HK"
+ },
+ {
+   "index": 337,
+   "TITLE": "The Foreigner",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 112487,
+   "DURATION": 113,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 338,
+   "TITLE": "Mirai",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 14983,
+   "DURATION": 98,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "JP"
+ },
+ {
+   "index": 339,
+   "TITLE": "Gaga: Five Foot Two",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 12825,
+   "DURATION": 100,
+   "MAIN_GENRE": "musical",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 340,
+   "TITLE": "The Christmas Chronicles",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 71182,
+   "DURATION": 104,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 341,
+   "TITLE": "Sarkar",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 18453,
+   "DURATION": 164,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 342,
+   "TITLE": "Rambo",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 228799,
+   "DURATION": 92,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 343,
+   "TITLE": "Dil Dhadakne Do",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 17149,
+   "DURATION": 170,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 344,
+   "TITLE": "Soul Surfer",
+   "RELEASE_YEAR": 2011,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 49101,
+   "DURATION": 112,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 345,
+   "TITLE": "Happy Gilmore",
+   "RELEASE_YEAR": 1996,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 217534,
+   "DURATION": 92,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 346,
+   "TITLE": "Den of Thieves",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 107701,
+   "DURATION": 140,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 347,
+   "TITLE": "The Zookeeper's Wife",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 42808,
+   "DURATION": 122,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 348,
+   "TITLE": "The Platform",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 207877,
+   "DURATION": 94,
+   "MAIN_GENRE": "horror",
+   "MAIN_PRODUCTION": "ES"
+ },
+ {
+   "index": 349,
+   "TITLE": "Public Enemies",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 297525,
+   "DURATION": 143,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 350,
+   "TITLE": "Ip Man 4: The Finale",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 30694,
+   "DURATION": 107,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "CN"
+ },
+ {
+   "index": 351,
+   "TITLE": "John Q",
+   "RELEASE_YEAR": 2002,
+   "SCORE": 7,
+   "NUMBER_OF_VOTES": 131999,
+   "DURATION": 116,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 352,
+   "TITLE": "Fashion",
+   "RELEASE_YEAR": 2008,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 12468,
+   "DURATION": 167,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 353,
+   "TITLE": "Ma Rainey's Black Bottom",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 50275,
+   "DURATION": 94,
+   "MAIN_GENRE": "musical",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 354,
+   "TITLE": "Any Given Sunday",
+   "RELEASE_YEAR": 1999,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 118479,
+   "DURATION": 162,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 355,
+   "TITLE": "The Long Riders",
+   "RELEASE_YEAR": 1980,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 11329,
+   "DURATION": 99,
+   "MAIN_GENRE": "western",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 356,
+   "TITLE": "Get on Up",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 24456,
+   "DURATION": 139,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 357,
+   "TITLE": "Fukrey",
+   "RELEASE_YEAR": 2013,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 11656,
+   "DURATION": 137,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 358,
+   "TITLE": "Chup Chup Ke",
+   "RELEASE_YEAR": 2006,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 10528,
+   "DURATION": 165,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 359,
+   "TITLE": "Then Came You",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 12356,
+   "DURATION": 93,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 360,
+   "TITLE": "The Wolf's Call",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 17236,
+   "DURATION": 115,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 361,
+   "TITLE": "Cloudy with a Chance of Meatballs",
+   "RELEASE_YEAR": 2009,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 226225,
+   "DURATION": 90,
+   "MAIN_GENRE": "animation",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 362,
+   "TITLE": "Our Souls at Night",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 13360,
+   "DURATION": 101,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 363,
+   "TITLE": "Chandigarh Kare Aashiqui",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 12303,
+   "DURATION": 117,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 364,
+   "TITLE": "Welcome",
+   "RELEASE_YEAR": 2007,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 21799,
+   "DURATION": 160,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 365,
+   "TITLE": "Everybody Knows",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 34009,
+   "DURATION": 132,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IT"
+ },
+ {
+   "index": 366,
+   "TITLE": "The Meyerowitz Stories (New and Selected)",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 47971,
+   "DURATION": 112,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 367,
+   "TITLE": "I Don't Feel at Home in This World Anymore",
+   "RELEASE_YEAR": 2017,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 55549,
+   "DURATION": 93,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 368,
+   "TITLE": "The Highwaymen",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 88714,
+   "DURATION": 132,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 369,
+   "TITLE": "Legend",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 175273,
+   "DURATION": 132,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 370,
+   "TITLE": "AK vs AK",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 14048,
+   "DURATION": 108,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 371,
+   "TITLE": "My Girl",
+   "RELEASE_YEAR": 1991,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 79800,
+   "DURATION": 103,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 372,
+   "TITLE": "Amanda Knox",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 23969,
+   "DURATION": 92,
+   "MAIN_GENRE": "crime",
+   "MAIN_PRODUCTION": "DK"
+ },
+ {
+   "index": 373,
+   "TITLE": "2 States",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 25344,
+   "DURATION": 149,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 374,
+   "TITLE": "The Power of the Dog",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 158487,
+   "DURATION": 126,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "CA"
+ },
+ {
+   "index": 375,
+   "TITLE": "The Half of It",
+   "RELEASE_YEAR": 2020,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 34959,
+   "DURATION": 104,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 376,
+   "TITLE": "Outlaw King",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 69834,
+   "DURATION": 121,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "GB"
+ },
+ {
+   "index": 377,
+   "TITLE": "Mary Kom",
+   "RELEASE_YEAR": 2014,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 10656,
+   "DURATION": 122,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 378,
+   "TITLE": "Suffragette",
+   "RELEASE_YEAR": 2015,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 41529,
+   "DURATION": 106,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "FR"
+ },
+ {
+   "index": 379,
+   "TITLE": "Legend of the Guardians: The Owls of Ga'Hoole",
+   "RELEASE_YEAR": 2010,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 82623,
+   "DURATION": 100,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 380,
+   "TITLE": "Christine",
+   "RELEASE_YEAR": 2016,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 14977,
+   "DURATION": 115,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 381,
+   "TITLE": "The Night Comes for Us",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 25500,
+   "DURATION": 121,
+   "MAIN_GENRE": "thriller",
+   "MAIN_PRODUCTION": "ID"
+ },
+ {
+   "index": 382,
+   "TITLE": "The Trip",
+   "RELEASE_YEAR": 2021,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 19706,
+   "DURATION": 113,
+   "MAIN_GENRE": "comedy",
+   "MAIN_PRODUCTION": "NO"
+ },
+ {
+   "index": 383,
+   "TITLE": "The Dirt",
+   "RELEASE_YEAR": 2019,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 47603,
+   "DURATION": 108,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 384,
+   "TITLE": "Top Gun",
+   "RELEASE_YEAR": 1986,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 329656,
+   "DURATION": 110,
+   "MAIN_GENRE": "drama",
+   "MAIN_PRODUCTION": "US"
+ },
+ {
+   "index": 385,
+   "TITLE": "Radhe Shyam",
+   "RELEASE_YEAR": 2022,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 21328,
+   "DURATION": 138,
+   "MAIN_GENRE": "romance",
+   "MAIN_PRODUCTION": "IN"
+ },
+ {
+   "index": 386,
+   "TITLE": "Sorry to Bother You",
+   "RELEASE_YEAR": 2018,
+   "SCORE": 6.9,
+   "NUMBER_OF_VOTES": 75653,
+   "DURATION": 111,
+   "MAIN_GENRE": "fantasy",
+   "MAIN_PRODUCTION": "US"
+ }
+]
